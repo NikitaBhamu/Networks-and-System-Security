@@ -25,6 +25,6 @@ In the assignment the following cryptographic algorithms provided by python are 
 * AES-128-GCM-GEN
 * AES-128-GCM-VRF
 
-## Assignment 1 : 
+## Assignment 3 : 
 ### Anomaly Detection (DoS and Impersonation)
 In this assignment the logistic regression classifier is used to detect the DoS and Impersonation anomalies. The accuracy and analysis of this classifier on both these datasets is mentioned in the readme file.
